@@ -1,7 +1,7 @@
 import { createWebHistory,createRouter } from "vue-router";
 import Home from "../views/home.vue";
 import AddEmployee from '../views/addEmployee.vue';
-import EditEmployee from '../views/EditEmployee.vue';
+import EditEmployee from '../views/editEmployee.vue';
 
 
 // make routes variable
